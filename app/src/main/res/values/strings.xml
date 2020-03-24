@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Num1">Number1</string>
+    <string name="Num2">Number2</string>
+    <string name="button">OK</string>
+    <string name="numb1">Number1</string>
+    <string name="numb2">Number2</string>
+    <string name="ans">Answer</string>
+    <string name="ad">Add</string>
+    <string name="min">Minus</string>
+    <string name="mul">Multiflicaion</string>
+    <string name="dev">Devide</string>
+    <string name="coustom">Coustom_cost</string>
+    <string name="cal">Calculator</string>
+    <string name="tost">ToastMessage</string>
+    <string name="Add">+</string>
+    <string name="mins">-</string>
+    <string name="mult">*</string>
+    <string name="devi">/</string>
+    <string name="hin">hint1</string>
+    <string name="hin2">hint2</string>
+    <string name="tost1">TostMessage</string>
+    <string name="custom">custom_toast</string>
+    <string name="calculator">btn_to_calculator</string>
+    <string name="Hello">helloworld</string>
+    <string name="btn_to_cal">Calculator</string>
+</resources>
